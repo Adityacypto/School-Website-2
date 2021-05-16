@@ -1,0 +1,19 @@
+body{
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    text-align: center;
+}
+.thick{
+    border: thick;
+}
+h2{
+    font-style: italic;
+}
+akshay{
+    height: 600px;
+    width: 600px;
+}
+ronaldo{
+    height: 600px;
+    width: 600px;
+}
